@@ -24,8 +24,8 @@ description              : "The Malysheva Lab of Computational Neurobiology at t
 url                      : "https://malyshevalab.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "malyshevalab/malyshevalab.github.io"
-teaser                   : "/assets/images/Image_test_4.jpg"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : # /assets/images/Image_test_4.jpg
+logo                     : "/assets/images/malyshevalab_logo.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -70,7 +70,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : MarioMuscarella
+  username               : MalyValerie
 facebook:
   username               :
   app_id                 :
@@ -93,27 +93,27 @@ analytics:
 
 # Site Author
 author:
-  name             : "Muscarella Lab"
+  name             : "Malysheva Lab"
   avatar           : "/assets/images/Lab_2Kx2K.jpg"
-  bio              : "Microbial Ecology and <br> Ecophysiology Lab <br>  <br> 
+  bio              : "Computational <br> Neurobiology Lab <br>  <br> 
                       We are an **amazing** lab!"
-  location         : "Fairbanks, AK"
+  location         : "Antwerp, Belgium"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:memuscarella@alaska.edu"
+      url: "mailto:valeriya.malysheva@vib.be"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/MarioMuscarella"
+      url: "https://twitter.com/MalyValerie"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/MuscarellaLab"
+      # url: "https://github.com/MuscarellaLab"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -123,13 +123,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/MarioMuscarella"
+      url: "https://twitter.com/MalyValerie"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/MuscarellaLab"
+      url: "https://github.com/malyshevalab"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
