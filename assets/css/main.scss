@@ -1,0 +1,63 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+$doc-font-size: 10 !default;
+
+$right-sidebar-width: 300px !default;
+$right-sidebar-width-wide: 400px !default;
+
+#main {
+    @include clearfix;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 5em;
+    padding-right: 5em;
+    -webkit-animation: $intro-transition;
+    animation: $intro-transition;
+    max-width: 100%;
+    -webkit-animation-delay: 0.15s;
+    animation-delay: 0.15s;
+  
+    @include breakpoint($large) {
+      max-width: $max-width;
+    }
+  }
+
+.author__avatar {
+    display: table-cell;
+    vertical-align: top;
+    width: 48px;
+    height: 48px;
+  
+    @include breakpoint($large) {
+      display: block;
+      width: auto;
+      height: auto;
+    }
+  
+    img {
+      max-width: 150px;
+      border-radius: 20%;
+  
+      @include breakpoint($large) {
+        padding: 5px;
+        border: 1px solid $border-color;
+      }
+    }
+  }
+
+  .author__bio {
+    margin: 0;
+  
+    @include breakpoint($large) {
+      margin-top: 10px;
+      margin-bottom: 20px;
+      margin-right: 5px;
+    }
+  }
