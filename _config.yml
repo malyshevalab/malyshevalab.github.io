@@ -18,14 +18,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-UK"
 title                    : "Malysheva Lab"
 title_separator          : "-"
-subtitle                 : "Computational Neurobiology"  # site tagline that appears below site title in masthead
+subtitle                 : " "  # site tagline that appears below site title in masthead
 name                     : "Malysheva Lab"
 description              : "The Malysheva Lab of Computational Neurobiology at the VIB Center for Molecular Neurology"
 url                      : "https://malyshevalab.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "malyshevalab/malyshevalab.github.io"
 teaser                   : # /assets/images/Image_test_4.jpg
-logo                     : "/assets/images/malyshevalab_logo_long_light.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/malysheva_logo_long_light.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
