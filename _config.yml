@@ -15,15 +15,15 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Muscarella Lab"
+locale                   : "en-UK"
+title                    : "Malysheva Lab"
 title_separator          : "-"
-subtitle                 : "Microbial Ecology and Ecophysiology"  # site tagline that appears below site title in masthead
-name                     : "Muscarella Lab"
-description              : "The Muscarella Lab of Microbial Ecology and Ecophysiology at the University of Alaska Fairbanks"
-url                      : "https://MuscarellaLab.github.io"
+subtitle                 : "Computational Neurobiology"  # site tagline that appears below site title in masthead
+name                     : "Malysheva Lab"
+description              : "The Malysheva Lab of Computational Neurobiology at the VIB Center for Molecular Neurology"
+url                      : "https://malyshevalab.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
-repository               : "MuscarellaLab/MuscarellaLab.github.io"
+repository               : "malyshevalab/malyshevalab.github.io"
 teaser                   : "/assets/images/HMWF008_1000x1000.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
