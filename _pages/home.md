@@ -10,7 +10,6 @@ header:
   overlay_image: /assets/images/Image_test_4.jpg
   overlay_filter: 0.30
 excerpt: 
-  The Computational Neurobiology Lab <br>
   VIB Center for Molecular Neurology <br>
   University of Antwerp
 feature_row:
