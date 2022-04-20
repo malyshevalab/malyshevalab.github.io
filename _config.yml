@@ -19,7 +19,7 @@ locale                   : "en-UK"
 title                    : "Malysheva Lab"
 title_separator          : "-"
 subtitle                 : " "  # site tagline that appears below site title in masthead
-name                     : "Malysheva Lab"
+name                     : "Computational Neurobiology Lab"
 description              : "The Malysheva Lab of Computational Neurobiology at the VIB Center for Molecular Neurology"
 url                      : "https://malyshevalab.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
