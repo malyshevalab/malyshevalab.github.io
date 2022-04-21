@@ -13,7 +13,7 @@ excerpt:
   VIB Center for Molecular Neurology <br>
   University of Antwerp
 feature_row:
-  - image_path: /assets/images/Search.png
+  - image_path: /assets/images/Research_logo.jpg
     alt: "Research"
     title: "Current Research"
     excerpt: "We have a number of exciting projects that explore the role of chromatin organisation in brain biology and neurodegenerative disease."
@@ -27,7 +27,7 @@ feature_row:
     url: "/people/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/Join.png
+  - image_path: /assets/images/Join_us_logo.jpg
     alt: "Join our team"
     title: "Join our team"
     excerpt: "We are looking for motivated scientists to join our interdisciplinary team. Opportunities for statisticians, bioinformaticians, postdocs, undergraduate and graduate students."
