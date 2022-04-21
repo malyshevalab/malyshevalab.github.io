@@ -20,7 +20,7 @@ feature_row:
     url: "/research/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/People_logo.png
+  - image_path: /assets/images/People_logo.jpg
     alt: "People"
     title: "Lab Members"
     excerpt: "We are a new but growing reserach group. Learn more about us."
