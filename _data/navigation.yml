@@ -6,9 +6,5 @@ main:
     url: /people/
   - title: "Publications"
     url: /publications/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Opportunities"
-    url: /opportunities/
-  - title: "Info"
-    url: /info/
+  - title: "Join us"
+    url: /Join us/
