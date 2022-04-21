@@ -93,21 +93,20 @@ analytics:
 
 # Site Author
 author:
-  name             : "Malysheva Lab"
-  avatar           : "/assets/images/Lab_2Kx2K.jpg"
-  bio              : "Computational <br> Neurobiology Lab <br>  <br> 
-                      We are an **amazing** lab!"
-  location         : "Antwerp, Belgium"
+  name             : " "
+  avatar           : " "
+  bio              : " "
+  location         : " "
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:valeriya.malysheva@vib.be"
+      # url: "mailto:valeriya.malysheva@vib.be"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/MalyValerie"
+      # url: "https://twitter.com/MalyValerie"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -124,6 +123,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/MalyValerie"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:valeriya.malysheva@vib.be"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
