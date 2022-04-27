@@ -5,9 +5,9 @@ title: People
 permalink: /people/
 author_profile: true
 header:
-  image: /assets/images/header_boreal2.jpg
+  image: /assets/images/Lab_banner_cropped.jpg
 feature_row1:
-  - image_path: /assets/images/Valeriya.jpg
+  - image_path: /assets/images/Valeriya_lab_photo_cropped.jpg
     alt: "Valeriya"
     title: "Valeriya Malysheva"
     excerpt: "**Group Leader** <br> 
@@ -19,7 +19,7 @@ feature_row1:
     btn_label: "   CV   "
 
 feature_row2:
-  - image_path: /assets/images/Helen.jpg
+  - image_path: /assets/images/Helen_lab_photo.jpg
     alt: "Helen"
     title: "Helen Ray-Jones"
     excerpt: "**Postdoctoral Researcher** <br> 
