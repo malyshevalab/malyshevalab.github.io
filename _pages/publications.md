@@ -22,7 +22,7 @@ Submission of a paper pending embargo.
 Paula Freire-Pritchett, Helen Ray-Jones, Monica Della Rosa, Chris Q. Eijsbouts, William R. Orchard, Steven W. Wingett, Chris Wallace, Jonathan Cairns, Mikhail Spivakov* and **Valeriya Malysheva**. Detecting chromosomal interactions in Capture Hi-C data with CHiCAGO and companion tools. 
 Nature Protocols (2021) 16, 4144–4176. (*joint corresponding authors)
 
-Jonathan Cairns*, William R. Orchard*, **Valeriya Malysheva**, Mikhail Spivakov, Chicdiff: a computational pipeline for detecting differential chromosomal interactions in Capture Hi-C data
+Jonathan Cairns*, William R. Orchard*, **Valeriya Malysheva***, Mikhail Spivakov, Chicdiff: a computational pipeline for detecting differential chromosomal interactions in Capture Hi-C data
 Bioinformatics (2019) Volume 35, Issue 22, 4764–4766 (*joint first authors)
 
 **Valeriya Malysheva**, Stefan Schoenfelder, Mikhail Spivakov, Takashi Nagano and Peter Fraser. Patent. Novel method for studying chromatin organization from rare cell types. Reference number WO2021064430A1.
