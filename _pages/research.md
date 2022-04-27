@@ -5,7 +5,7 @@ title: Research
 author_profile: false
 permalink: /research/
 header:
-  image: /assets/images/Image_test_4.jpg
+  image: /assets/images/Lab_banner_cropped.jpg
   overlay_filter: 0.30
 feature_row1:
   - image_path: /assets/images/Metabolism2.jpg
