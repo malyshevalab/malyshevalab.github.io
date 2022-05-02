@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/png" href="/assets/images/favicon.png">
+
 ---
 layout: splash
 classes:
