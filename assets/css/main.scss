@@ -6,18 +6,21 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+<link rel="shortcut icon" type="image/png" href="favicon.png">
 
 $doc-font-size: 10 !default;
 
-// $right-sidebar-width: 300px !default;
-// $right-sidebar-width-wide: 400px !default;
+$right-sidebar-width: 300px !default;
+$right-sidebar-width-wide: 400px !default;
 
 #main {
     @include clearfix;
-    margin-left: auto;
+//     margin-left: auto;
+//     margin-right: auto;
+    margin-left: false;
     margin-right: auto;
-    padding-left: false;
-    padding-right: false;
+    padding-left: 5em;
+    padding-right: 5em;
     -webkit-animation: $intro-transition;
     animation: $intro-transition;
     max-width: 100%;
