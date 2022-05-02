@@ -1,5 +1,3 @@
-<link rel="shortcut icon" type="image/png" href="/assets/images/favicon.png">
-
 ---
 layout: splash
 classes:
@@ -7,6 +5,9 @@ classes:
   - dark-theme
 permalink: /
 hidden: true
+shortcut_icon:
+  type: "image/png
+  href: "/assets/images/favicon.png"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/Image_test_4.jpg
