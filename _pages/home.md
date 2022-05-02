@@ -13,28 +13,32 @@ excerpt:
   VIB Center for Molecular Neurology <br>
   University of Antwerp
 feature_row:
-  - alt: "Join us"
+  - image_path: /assets/images/We_are_hiring.png
+    alt: "Join us"
     title: " "
     excerpt: "PhD and PostDoc positions are open for applications"
-    url: "/research/"
+    url: "/opportunities/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - alt: "People"
+    btn_label: "Apply here"
+  - image_path: /assets/images/Helen_lab_photo.jpg
+    alt: "People"
     title: " "
     excerpt: "Welcome Helen!"
     url: "/people/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - alt: "News"
+  - image_path: /assets/images/Latest_paper_NatProt.png
+    alt: "News"
     title: " "
-    excerpt: "We are officially opened!"
-    url: "/opportunities/"
+    excerpt: "Latest article published in Nature Protocols"
+    url: "/News/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
 
 News
 {: .text-center}
+{: .bold}
 Latest highlights from the group
 {: .text-center}
 
