@@ -91,31 +91,35 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
-# # Site Author
-# author:
-#   name             : " "
-#   avatar           : " "
-#   bio              : " "
-#   location         : " "
-#   links:
-#     - label: "Email"
-#       icon: "fas fa-fw fa-envelope-square"
-#       # url: "mailto:valeriya.malysheva@vib.be"
-#     - label: "Website"
-#       icon: "fas fa-fw fa-link"
-#       # url: "https://your-website.com"
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       # url: "https://twitter.com/MalyValerie"
-#     - label: "Facebook"
-#       icon: "fab fa-fw fa-facebook-square"
-#       # url: "https://facebook.com/"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       # url: "https://github.com/MuscarellaLab"
-#     - label: "Instagram"
-#       icon: "fab fa-fw fa-instagram"
-#       # url: "https://instagram.com/"
+# Site Author
+author:
+  name             : "Malysheva Lab"
+  avatar           : "/assets/images/favicon.png"
+  bio              : "Computational <br> Neurobiology Lab <br>  <br> 
+                      Join us!"
+  location         : "Antwerp, Belgium"
+  links:
+      - label: "Twitter"
+        icon: "fab fa-fw fa-twitter-square"
+        url: "https://twitter.com/MalyValerie"
+      - label: "Email"
+        icon: "fas fa-fw fa-envelope-square"
+        url: "mailto:valeriya.malysheva@vib.be"
+      - label: "Facebook"
+        icon: "fab fa-fw fa-facebook-square"
+        # url:
+      - label: "GitHub"
+        icon: "fab fa-fw fa-github"
+        url: "https://github.com/malyshevalab"
+      - label: "GitLab"
+        icon: "fab fa-fw fa-gitlab"
+        # url:
+      - label: "Bitbucket"
+        icon: "fab fa-fw fa-bitbucket"
+        # url:
+      - label: "Instagram"
+        icon: "fab fa-fw fa-instagram"
+        # url:
 
 # Site Footer
 footer:
