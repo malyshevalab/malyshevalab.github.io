@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title: Research
-author_profile: false
+author_profile: true
 permalink: /research/
 header:
   image: /assets/images/Lab_banner_cropped.jpg
