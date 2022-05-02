@@ -10,7 +10,7 @@ header:
 
 ### Technician
 
-We have an open position for a Technician with skills in functional genomics and motivation to learn other techniques. If are interested in this position, [contact us](mailto:valeriya.malysheva@vib.be?subject=Malysheva Technician position) with your CV and a brief statement, explaining your motivation to join our lab. 
+We have an open position for a Technician with skills in functional genomics and motivation to learn other techniques. If you are interested in this position, [contact us](mailto:valeriya.malysheva@vib.be?subject=Malysheva Technician position) with your CV and a brief statement, explaining your motivation to join our lab. 
 
 
 ### Undergraduate Students
