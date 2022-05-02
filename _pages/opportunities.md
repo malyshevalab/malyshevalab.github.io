@@ -5,7 +5,7 @@ title: Join us
 author_profile: true
 permalink: /Join us/
 header:
-  image: /assets/images/image_test_4.jpg
+  image: /assets/images/Lab_banner_cropped.jpg
 ---
 
 ### Undergraduate Students
