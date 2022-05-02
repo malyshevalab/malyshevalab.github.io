@@ -37,8 +37,8 @@ feature_row:
 ---
 
 News
-{: .text-center}
-{: .bold}
+{: .bold .text-center}
+
 Latest highlights from the group
 {: .text-center}
 
