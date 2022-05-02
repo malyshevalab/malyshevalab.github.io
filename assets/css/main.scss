@@ -16,7 +16,7 @@ $right-sidebar-width-wide: 400px !default;
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 1em;
+    padding-left: -1em;
     padding-right: 5em;
     -webkit-animation: $intro-transition;
     animation: $intro-transition;
@@ -38,10 +38,15 @@ $right-sidebar-width-wide: 400px !default;
     height: 0px;
 
   
+//     @include breakpoint($large) {
+//       display: block;
+//       width: auto;
+//       height: auto;
+//     }
     @include breakpoint($large) {
       display: block;
-      width: auto;
-      height: auto;
+      width: 0px;
+      height: 0px;
     }
   
 //     img {
@@ -65,12 +70,22 @@ $right-sidebar-width-wide: 400px !default;
  
   }
 
-  .author__bio {
+//   .author__bio {
+//     margin: 0;
+  
+//     @include breakpoint($large) {
+//       margin-top: 10px;
+//       margin-bottom: 20px;
+//       margin-right: 5px;
+//     }
+//   }
+
+.author__bio {
     margin: 0;
   
     @include breakpoint($large) {
-      margin-top: 10px;
-      margin-bottom: 20px;
-      margin-right: 5px;
+      margin-top: 0px;
+      margin-bottom: 0px;
+      margin-right: 0px;
     }
   }
