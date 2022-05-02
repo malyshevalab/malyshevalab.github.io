@@ -36,6 +36,8 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
+Welcome to the Computational Neurobiology Lab! In our lab we address fundamental questions in chromatin organisation, epigenetics and brain biology. We develop machine learning approaches for large-scale data integration and reconstruct cis-regulatory networks to understand how a cell “chooses” its fate. In particular, we focus on the role of chromatin organisation in neuronal cell fate specification and neurodegenerative disease, aiming to bring results of fundamental research to the clinic. Learn more about our current work [here]( {{ site.url }}/research) and opportunities to join our group [here]( {{ site.url }}/opportunities).
+
 News
 {: .bold .text-center}
 
