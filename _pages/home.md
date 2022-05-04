@@ -46,5 +46,3 @@ Latest highlights from the group
 
 
 {% include feature_row %}
-
-{% include gallery %}
