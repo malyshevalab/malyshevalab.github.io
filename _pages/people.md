@@ -19,7 +19,7 @@ feature_row1:
     btn_label: "   CV   "
 
 feature_row2:
-  - image_path: /assets/images/Helen_lab_photo.jpg
+  - image_path: /assets/images/Helen_lab.png
     alt: "Helen"
     title: "Helen Ray-Jones"
     excerpt: "**Postdoctoral Researcher** <br> 
