@@ -146,21 +146,6 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
-# Site Gallery:
-gallery: 
-  - url: "https://vib.be/"
-      image_path: /assets/images/VIB_logo.jpg
-      alt: "placeholder image 2"
-      title: "Image 2 title caption"
-  - url: "https://www.uantwerpen.be/en/"
-      image_path: /assets/images/UA_logo.jpg
-      alt: "University of Antwerp"
-      title: "University of Antwerp"
-  - url: "https://www.cam.ac.uk/"
-      image_path: /assets/images/CamUni.jpg
-      alt: "University of Cambridge"
-      title: "University of Cambridge"
-
 # Reading Files
 include:
   - .htaccess
