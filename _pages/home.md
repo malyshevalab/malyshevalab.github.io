@@ -20,7 +20,8 @@ feature_row:
     url: "/opportunities/"
     btn_class: "btn--primary"
     btn_label: "Apply here"
-  - alt: "People"
+  - image_path: /assets/images/We_are_hiring.png
+    alt: "People"
     title: " "
     excerpt: "Welcome Helen!"
     url: "/people/"
