@@ -20,7 +20,7 @@ feature_row:
     url: "/opportunities/"
     btn_class: "btn--primary"
     btn_label: "Apply here"
-  - image_path: /assets/images/Helen_lab.jpeg
+  - image_path: /assets/images/Helen_lab.png
     alt: "People"
     title: " "
     excerpt: "Welcome Helen!"
