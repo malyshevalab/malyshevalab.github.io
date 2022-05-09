@@ -8,24 +8,21 @@ header:
   image: /assets/images/Lab_banner_cropped.jpg
   overlay_filter: 0.30
 feature_row1:
-  - image_path: /assets/images/Metabolism2.jpg
-    alt: "Chromatin Organisation"
+  - alt: "Chromatin Organisation"
     title: "Chromatin Organisation"
     excerpt: "Some text here."
     url: "/research2/#chromatin"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row2:
-  - image_path: /assets/images/ResourceDiversity2.jpg
-    alt: "Causal Inference"
+  - alt: "Causal Inference"
     title: "Causal Inference"
     excerpt: "Some text here too."
     url: "/research2/#causality"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row3:
-  - image_path: /assets/images/ConceptualFigure2.jpg
-    alt: "Neurodegenerative Disease"
+  - alt: "Neurodegenerative Disease"
     title: "Neurodegenerative Disease"
     excerpt: "Some text about it"
     url: "/research2/#brain"
